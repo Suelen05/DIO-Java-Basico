@@ -74,5 +74,7 @@ Olá MARIO ANDRADE, obrigado por criar uma conta em nosso banco, sua agência é
 ---
 
 ## ✍️ Autor
-Feito com 💻 por Suelen Fraga
-🔗 [LinkedIn](https://www.linkedin.com/in/suelen05/) | [GitHub](https://github.com/Suelen05)
+Feito por Suelen Fraga
+
+🔗 [LinkedIn](https://www.linkedin.com/in/suelen05/) | [GitHub](https://github.com/Suelen05) |
+[E-mail](suelen05@edu.unisinos.br)
